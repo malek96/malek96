@@ -60,3 +60,26 @@
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
   </a> 
 </p>
+### 👉 Frameworks
+ 
+<p align="center">
+  &emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Angular%23007396.svgstyle=plastic&logo=angular&logoColor=white&color=red"></a>
+  &emsp;
+    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/Ionic-%23007396.svg?style=plastic&logo=ionic&logoColor=white&color=blue" /></a>
+  &emsp;
+    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/SpringBoot-%23007396.svg?style=plastic&logo=springboot&logoColor=white&color=green" /></a>
+	  &emsp;
+    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Express-%23007396.svg?style=plastic&logo=express&logoColor=black&color=white" /></a>
+</p>
+
+### 👉 IDEs
+ 
+<p align="center">
+  &emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
+  &emsp;
+    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
+</p>
