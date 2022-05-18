@@ -64,13 +64,13 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Angular%23007396.svgstyle=plastic&logo=angular&logoColor=white&color=red"></a>
+    <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-%23007396.svg?style=plastic&logo=angular&logoColor=white&color=red"></a>
   &emsp;
-    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/Ionic-%23007396.svg?style=plastic&logo=ionic&logoColor=white&color=blue" /></a>
+    <a href="#"><img alt="Ionic" src="https://img.shields.io/badge/Ionic-%23007396.svg?style=plastic&logo=ionic&logoColor=white&color=blue" /></a>
   &emsp;
-    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/SpringBoot-%23007396.svg?style=plastic&logo=springboot&logoColor=white&color=green" /></a>
+    <a href="#"><img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-%23007396.svg?style=plastic&logo=springboot&logoColor=white&color=green" /></a>
 	  &emsp;
-    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Express-%23007396.svg?style=plastic&logo=express&logoColor=black&color=white" /></a>
+    <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express-%23007396.svg?style=plastic&logo=express&logoColor=black&color=white" /></a>
 </p>
 
 ### 👉 IDEs
